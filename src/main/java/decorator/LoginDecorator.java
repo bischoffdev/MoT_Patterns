@@ -1,6 +1,7 @@
 package decorator;
 
 public abstract class LoginDecorator implements LoginComponent {
+
     private final LoginComponent loginComponent;
 
     public LoginDecorator(LoginComponent loginComponent) {

@@ -1,6 +1,7 @@
 package pageobjects;
 
 public class WebshopPage {
+
     public void search(final String queryString) {
         System.out.println("Enter " + queryString);
         System.out.println("Click search button");

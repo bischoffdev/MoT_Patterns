@@ -1,6 +1,7 @@
 package pagecomponents;
 
 public class ResultList {
+
     public void checkResultHeadline() {
         System.out.println("Check if the headline is correct.");
     }
