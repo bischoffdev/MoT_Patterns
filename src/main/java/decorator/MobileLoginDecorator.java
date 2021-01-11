@@ -1,4 +1,4 @@
-package decorator.components;
+package decorator;
 
 public class MobileLoginDecorator extends LoginDecorator {
 

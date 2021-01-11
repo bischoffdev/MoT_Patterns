@@ -1,4 +1,4 @@
-package factory.factory;
+package factory;
 
 public class SearchBar extends Component {
     public void search(final String queryString) {

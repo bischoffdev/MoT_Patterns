@@ -1,4 +1,4 @@
-package factory.factory;
+package factory;
 
 public class ResultList extends Component {
     public void checkResultHeadline() {

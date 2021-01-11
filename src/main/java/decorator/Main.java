@@ -1,10 +1,5 @@
 package decorator;
 
-import decorator.components.BasicLoginComponent;
-import decorator.components.CancelButtonDecorator;
-import decorator.components.LoginComponent;
-import decorator.components.MobileLoginDecorator;
-
 public class Main {
     public static void main(String[] args) {
 
