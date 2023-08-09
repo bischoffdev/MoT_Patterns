@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-bischoff/)
+
 # Common UI Automation Patterns And Methodologies: Real-World Examples
 
 ## Code Examples
